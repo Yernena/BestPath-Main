@@ -5,7 +5,7 @@
 ## Models
 
 ### Location
-- Represents a location of a customer or a restaurant
+- Represents a location of a customer or a restaurant or a delivery partner
   - Attributes:
     - Latitude
     - Longitude
